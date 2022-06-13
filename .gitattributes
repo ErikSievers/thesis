@@ -1,3 +1,4 @@
 /poreidentification-with-sharpening-like[[:space:]]copy.ipynb filter=lfs diff=lfs merge=lfs -text
 /poreidentification-with-sharpening-pt2.ipynb filter=lfs diff=lfs merge=lfs -text
 /spatial-kd-porosity.ipynb filter=lfs diff=lfs merge=lfs -text
+/moran-scatterplot.ipynb filter=lfs diff=lfs merge=lfs -text
