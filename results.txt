@@ -1,0 +1,26 @@
+
+# First one
+
+1. 1. 1. 1. 1. 1. 1. 1. 1. 1.
+1. 1. 1. 1. 1. 1. 1. 1. 0. 1.
+X. 1. 1. 1. 0. 0. 1. X.
+
+# Tweaked bucket amount using normal distance
+
+1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 
+1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 
+X. 1. -. 0. 1. 1. 1. X.
+
+# Tweaked bucket amount using log distance
+
+1. 1. 1. 1. 1. 1. 1. 1. 1. 1.
+1. 1. 1. 0. 1. 1. 1. 1. 0. 1.
+X. 1. 1. 1. 1. 1. 1. X.
+
++. -. +. +. +. +. +. -. +. +.
++. +. +. -. +. -. +. +. -. +.
+X. -. +. +. -. +. +. X.
+
+19, 25, 26 blir fel. Men vi kollar bara på ett lager...
+
+100% recall :) Vore spännande att dela objekten digitalt och se vad som sker...
