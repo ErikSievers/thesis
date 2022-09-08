@@ -33,6 +33,24 @@ X. 0. 1. 1. 1. 1. 1. X.
 1. 1. 1. 1. 1. 0. 1. 1. 0. 1.
 X. 1. 1. 1. 1. 0. 1. X.
 
+# Not yet committed changes including diagonal filtering in sharpening 😮 
+
+1. 1. 1. 1. 1. 1. 1. 1. 1. 0.
+1. 1. 1. 1. 1. 1. 1. 1. 0. 1.
+X. 1. 1. 1. 1. 0. 1. X.
+
+# Normalising apparently isn't helpful
+
+1. 1. 1. 1. 1. 1. 1. 0. 1. 0.
+1. 1. 1. 0. 1. 1. 1. 1. 1. 1.
+X. 0. 1. 1. 1. 1. 1. X.
+
+# Except when you do it across the wrong axis?
+
+1. 1. 1. 1. 1. 1. 1. 1. 1. 1.
+1. 1. 1. 1. 1. 0. 1. 1. 0. 1.
+1. 1. 1. 1. 1. 1.
+
 +. -. +. +. +. +. +. -. +. +.
 +. +. +. -. +. -. +. +. -. +.
 X. -. +. +. -. +. +. X.
