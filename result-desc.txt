@@ -3,5 +3,6 @@ out3 tests cutting objects 13 times
 out4 tests cutting objects 6 times
 out5 tests cutting objects 26 times
 out6 is same as out5 except that it uses density=true on histogram creation
+out7 is using the new mask and includes spatstat
 
 Completely unsurprising, the more time the object is cut the harder predictions become. 
