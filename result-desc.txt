@@ -1,0 +1,7 @@
+out1 and 2 are from the old system that's probably broken.
+out3 tests cutting objects 13 times
+out4 tests cutting objects 6 times
+out5 tests cutting objects 26 times
+out6 is same as out5 except that it uses density=true on histogram creation
+
+Completely unsurprising, the more time the object is cut the harder predictions become. 
