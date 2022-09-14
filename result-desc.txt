@@ -10,8 +10,9 @@ out8 is the first time using cross validation
 out9 is same as out8, but with less oversampling
 out10 is same as out8, but with more oversampling
 out11 is the setting with large objects
-out12 is a variation on 10, with less downsampling (no?) of the negative class
-out13 is a variation on 10, with less downsampling of the negative class
+out12 is a variation on 10, with no downsampling of the negative class to improve precision
+out13 is a variation on 10, with less downsampling of the negative class to balance precision and recall.
+out14 is the crazy one using a different test geometry
 
 
 Completely unsurprising, the more time the object is cut the harder predictions become. 
