@@ -5,4 +5,9 @@ out5 tests cutting objects 26 times
 out6 is same as out5 except that it uses density=true on histogram creation
 out7 is using the new mask and includes spatstat
 
+----
+out8 is the first time using cross validation
+out9 is same as out8, but with less oversampling
+out10 is same as out8, but with more oversampling
+
 Completely unsurprising, the more time the object is cut the harder predictions become. 
