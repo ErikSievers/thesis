@@ -29,11 +29,17 @@ Moran:      diagonal,   1,  euclidean,  30,   row,      6,  0.768233082706767,  
 Spatstat:   diagonal,   5,  grid,  90,   none,          6,  0.7031328320802006,  0.6015037593984962,  0.36363636363636365,  0.5714285714285714
 
 10 (objectsplit 13, upsampling 4)
-Scatter:    diagonal,   1,  euclidean,  60,     none,   6,  0.8328163083928866, 0.8421052631578947, 0.5384615384615384, 1.0
-Moran:      direct,     1,  euclidean,  90,     row,    6,  0.806062119397355,  0.744360902255639,  0.46153846153846156,    0.8571428571428571
-Spatstat:   diagonal,   1,  grid,       150,    none,   5,  0.7264897483344293, 0.7631578947368421, 0.4375, 1.0
+Algorithm,  Sharpening, W,  Neighborhood,   Bins,   Normalise,  K,  AUC train,  AUC Test
+Scatter,    diagonal,   1,  euclidean,      60,     No,         6,  0.83,       0.84
+Moran,      direct,     1,  euclidean,      90,     Yes,        6,  0.81,       0.74
+Spatstat,   diagonal,   1,  grid,           150,    No,         5,  0.73,       0.76
 
 11 (objectsplit 3, upsampling 15)
 Spatstat: diagonal,5,euclidean,120,none,5,                  0.8960857355736286, 0.7180451127819549, 0.42857142857142855,0.8571428571428571
 Scatter: direct,5,grid,30,row,5,                            0.8883703218538679, 0.8421052631578947, 0.5384615384615384,1.0
 Moran: diagonal,1,grid,120,row,6,                           0.8790215672314812, 0.7706766917293233, 0.5,0.8571428571428571
+
+Algorithm,  Sharpening, W,  Neighborhood,   Bins,   Normalise,  K,  AUC train,  AUC Test
+scatter,    direct,     1,  grid,           30,     No,         3,  1.0,        0.85
+moran,      direct,     1,  euclidean,      120,    No,         7,  0.99,       0.83
+spatstat,   direct,     1,  grid,           60,     No,         3,  1.0,        0.80
