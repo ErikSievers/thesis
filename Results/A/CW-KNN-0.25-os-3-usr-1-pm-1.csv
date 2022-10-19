@@ -1,0 +1,2 @@
+type,sharpening,windowSize,neighbourhood,buckets,histnormalise,k-nearest,cv-auc,test-auc
+spatstat,none,1,3,40,True,5,0.9566089466089466,0.07432897456411712
