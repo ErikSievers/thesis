@@ -1,0 +1,786 @@
+0 H1 1     Object  Segment  Label
+130     H1        1      0
+125    H27        1      0
+145     H4        1      0
+255    H27        1      0
+160     H7        1      0
+0 H1 2     Object  Segment  Label
+131     H1        2      0
+1       H1        2      0
+71     H15        2      0
+226    H20        2      0
+96     H20        2      0
+0 H1 3     Object  Segment  Label
+132     H1        3      0
+2       H1        3      0
+227    H20        3      0
+82     H17        3      0
+127    H27        3      0
+0 H1 4     Object  Segment  Label
+133     H1        4      0
+98     H20        4      0
+3       H1        4      0
+258    H27        4      0
+124    H26        5      0
+0 H1 5     Object  Segment  Label
+133     H1        4      0
+4       H1        5      0
+204    H15        5      0
+134     H1        5      0
+3       H1        4      0
+1 H2 1     Object  Segment  Label
+135     H2        1      1
+8       H2        4      1
+138     H2        4      1
+198    H14        4      1
+197    H14        3      1
+1 H2 2     Object  Segment  Label
+104    H22        5      1
+37      H8        3      1
+6       H2        2      1
+138     H2        4      1
+139     H2        5      1
+1 H2 3     Object  Segment  Label
+139     H2        5      1
+119    H25        5      1
+209    H16        5      1
+102    H22        3      1
+137     H2        3      1
+1 H2 4     Object  Segment  Label
+208    H16        4      1
+118    H25        4      1
+9       H2        5      1
+104    H22        5      1
+234    H22        5      1
+1 H2 5     Object  Segment  Label
+209    H16        5      1
+137     H2        3      1
+119    H25        5      1
+139     H2        5      1
+7       H2        3      1
+0 H3 1     Object  Segment  Label
+190    H13        1      0
+110    H24        1      0
+10      H3        1      0
+80     H17        1      0
+170     H9        1      0
+0 H3 2     Object  Segment  Label
+141     H3        2      0
+26      H6        2      0
+61     H13        2      0
+146     H4        2      0
+191    H13        2      0
+0 H3 3     Object  Segment  Label
+12      H3        3      0
+87     H18        3      0
+142     H3        3      0
+82     H17        3      0
+217    H18        3      0
+0 H3 4     Object  Segment  Label
+29      H6        5      0
+13      H3        4      0
+58     H12        4      0
+28      H6        4      0
+148     H4        4      0
+0 H3 5     Object  Segment  Label
+14      H3        5      0
+44      H9        5      0
+84     H17        5      0
+144     H3        5      0
+89     H18        5      0
+0 H4 1     Object  Segment  Label
+130     H1        1      0
+145     H4        1      0
+125    H27        1      0
+205    H16        1      1
+160     H7        1      0
+0 H4 2     Object  Segment  Label
+26      H6        2      0
+146     H4        2      0
+141     H3        2      0
+16      H4        2      0
+11      H3        2      0
+0 H4 3     Object  Segment  Label
+142     H3        3      0
+87     H18        3      0
+147     H4        3      0
+17      H4        3      0
+82     H17        3      0
+0 H4 4     Object  Segment  Label
+148     H4        4      0
+28      H6        4      0
+58     H12        4      0
+149     H4        5      0
+259    H27        5      0
+0 H4 5     Object  Segment  Label
+44      H9        5      0
+149     H4        5      0
+144     H3        5      0
+174     H9        5      0
+14      H3        5      0
+0 H5 1     Object  Segment  Label
+110    H24        1      0
+190    H13        1      0
+10      H3        1      0
+80     H17        1      0
+60     H13        1      0
+0 H5 2     Object  Segment  Label
+61     H13        2      0
+191    H13        2      0
+141     H3        2      0
+56     H12        2      0
+171     H9        2      0
+0 H5 3     Object  Segment  Label
+27      H6        3      0
+147     H4        3      0
+17      H4        3      0
+217    H18        3      0
+157     H6        3      0
+0 H5 4     Object  Segment  Label
+93     H19        4      1
+148     H4        4      0
+114    H24        5      0
+28      H6        4      0
+193    H13        4      0
+0 H5 5     Object  Segment  Label
+44      H9        5      0
+219    H18        5      0
+89     H18        5      0
+14      H3        5      0
+189    H12        5      0
+0 H6 1     Object  Segment  Label
+250    H26        1      0
+215    H18        1      0
+185    H12        1      0
+155     H6        1      0
+85     H18        1      0
+0 H6 2     Object  Segment  Label
+26      H6        2      0
+81     H17        2      0
+156     H6        2      0
+146     H4        2      0
+16      H4        2      0
+0 H6 3     Object  Segment  Label
+157     H6        3      0
+237    H23        3      0
+27      H6        3      0
+142     H3        3      0
+12      H3        3      0
+0 H6 4     Object  Segment  Label
+158     H6        4      0
+28      H6        4      0
+29      H6        5      0
+113    H24        4      0
+148     H4        4      0
+0 H6 5     Object  Segment  Label
+159     H6        5      0
+29      H6        5      0
+238    H23        4      0
+43      H9        4      0
+108    H23        4      0
+0 H7 1     Object  Segment  Label
+80     H17        1      0
+10      H3        1      0
+60     H13        1      0
+240    H24        1      0
+110    H24        1      0
+0 H7 2     Object  Segment  Label
+161     H7        2      0
+31      H7        2      0
+151     H5        2      0
+56     H12        2      0
+191    H13        2      0
+0 H7 3     Object  Segment  Label
+162     H7        3      0
+32      H7        3      0
+163     H7        4      0
+33      H7        4      0
+152     H5        3      0
+0 H7 4     Object  Segment  Label
+33      H7        4      0
+163     H7        4      0
+32      H7        3      0
+149     H4        5      0
+162     H7        3      0
+0 H7 5     Object  Segment  Label
+164     H7        5      0
+34      H7        5      0
+24      H5        5      0
+59     H12        5      0
+94     H19        5      1
+1 H8 1     Object  Segment  Label
+135     H2        1      1
+8       H2        4      1
+7       H2        3      1
+138     H2        4      1
+39      H8        5      1
+1 H8 2     Object  Segment  Label
+66     H14        2      1
+8       H2        4      1
+138     H2        4      1
+198    H14        4      1
+6       H2        2      1
+1 H8 3     Object  Segment  Label
+222    H19        3      0
+6       H2        2      1
+119    H25        5      1
+9       H2        5      1
+167     H8        3      1
+1 H8 4     Object  Segment  Label
+136     H2        2      1
+177    H10        3      0
+232    H22        3      1
+8       H2        4      1
+137     H2        3      1
+1 H8 5     Object  Segment  Label
+137     H2        3      1
+119    H25        5      1
+139     H2        5      1
+169     H8        5      1
+167     H8        3      1
+0 H9 1     Object  Segment  Label
+40      H9        1      0
+185    H12        1      0
+250    H26        1      0
+10      H3        1      0
+85     H18        1      0
+0 H9 2     Object  Segment  Label
+206    H16        2      1
+151     H5        2      0
+176    H10        2      0
+46     H10        2      0
+192    H13        3      0
+0 H9 3     Object  Segment  Label
+218    H18        4      0
+153     H5        4      0
+223    H19        4      1
+154     H5        5      0
+22      H5        3      0
+0 H9 4     Object  Segment  Label
+63     H13        4      0
+193    H13        4      0
+57     H12        3      0
+188    H12        4      0
+153     H5        4      0
+0 H9 5     Object  Segment  Label
+44      H9        5      0
+144     H3        5      0
+84     H17        5      0
+14      H3        5      0
+174     H9        5      0
+0 H10 1     Object  Segment  Label
+185    H12        1      0
+85     H18        1      0
+215    H18        1      0
+250    H26        1      0
+170     H9        1      0
+0 H10 2     Object  Segment  Label
+171     H9        2      0
+186    H12        2      0
+56     H12        2      0
+191    H13        2      0
+236    H23        2      0
+0 H10 3     Object  Segment  Label
+62     H13        3      0
+47     H10        3      0
+187    H12        3      0
+192    H13        3      0
+43      H9        4      0
+0 H10 4     Object  Segment  Label
+193    H13        4      0
+48     H10        4      0
+178    H10        4      0
+49     H10        5      0
+57     H12        3      0
+0 H10 5     Object  Segment  Label
+43      H9        4      0
+173     H9        4      0
+84     H17        5      0
+239    H23        5      0
+33      H7        4      0
+0 H11 1     Object  Segment  Label
+180    H11        1      0
+50     H11        1      0
+130     H1        1      0
+125    H27        1      0
+145     H4        1      0
+0 H11 2     Object  Segment  Label
+181    H11        2      0
+51     H11        2      0
+96     H20        2      0
+201    H15        2      0
+226    H20        2      0
+0 H11 3     Object  Segment  Label
+52     H11        3      0
+182    H11        3      0
+133     H1        4      0
+2       H1        3      0
+3       H1        4      0
+0 H11 4     Object  Segment  Label
+183    H11        4      0
+203    H15        4      0
+204    H15        5      0
+182    H11        3      0
+133     H1        4      0
+0 H11 5     Object  Segment  Label
+54     H11        5      0
+184    H11        5      0
+73     H15        4      0
+123    H26        4      0
+74     H15        5      0
+0 H12 1     Object  Segment  Label
+75     H16        1      1
+100    H22        1      1
+120    H26        1      0
+210    H17        1      0
+10      H3        1      0
+0 H12 2     Object  Segment  Label
+56     H12        2      0
+191    H13        2      0
+61     H13        2      0
+186    H12        2      0
+171     H9        2      0
+0 H12 3     Object  Segment  Label
+47     H10        3      0
+62     H13        3      0
+187    H12        3      0
+57     H12        3      0
+192    H13        3      0
+0 H12 4     Object  Segment  Label
+148     H4        4      0
+29      H6        5      0
+13      H3        4      0
+28      H6        4      0
+149     H4        5      0
+0 H12 5     Object  Segment  Label
+44      H9        5      0
+59     H12        5      0
+144     H3        5      0
+189    H12        5      0
+219    H18        5      0
+0 H13 1     Object  Segment  Label
+135     H2        1      1
+19      H4        5      0
+23      H5        4      0
+255    H27        1      0
+60     H13        1      0
+0 H13 2     Object  Segment  Label
+61     H13        2      0
+191    H13        2      0
+141     H3        2      0
+41      H9        2      0
+56     H12        2      0
+0 H13 3     Object  Segment  Label
+62     H13        3      0
+47     H10        3      0
+192    H13        3      0
+187    H12        3      0
+193    H13        4      0
+0 H13 4     Object  Segment  Label
+193    H13        4      0
+188    H12        4      0
+43      H9        4      0
+173     H9        4      0
+33      H7        4      0
+0 H13 5     Object  Segment  Label
+194    H13        5      0
+59     H12        5      0
+89     H18        5      0
+64     H13        5      0
+219    H18        5      0
+0 H14 1     Object  Segment  Label
+145     H4        1      0
+0       H1        1      0
+150     H5        1      0
+65     H14        1      0
+210    H17        1      0
+1 H14 2     Object  Segment  Label
+207    H16        3      1
+102    H22        3      1
+198    H14        4      1
+196    H14        2      1
+78     H16        4      1
+1 H14 3     Object  Segment  Label
+198    H14        4      1
+138     H2        4      1
+102    H22        3      1
+66     H14        2      1
+249    H25        5      1
+1 H14 4     Object  Segment  Label
+247    H25        3      1
+119    H25        5      1
+104    H22        5      1
+198    H14        4      1
+79     H16        5      1
+1 H14 5     Object  Segment  Label
+198    H14        4      1
+119    H25        5      1
+153     H5        4      0
+224    H19        5      1
+69     H14        5      1
+0 H15 1     Object  Segment  Label
+200    H15        1      0
+70     H15        1      0
+205    H16        1      1
+100    H22        1      1
+125    H27        1      0
+0 H15 2     Object  Segment  Label
+201    H15        2      0
+121    H26        2      0
+71     H15        2      0
+226    H20        2      0
+251    H26        2      0
+0 H15 3     Object  Segment  Label
+72     H15        3      0
+202    H15        3      0
+52     H11        3      0
+2       H1        3      0
+133     H1        4      0
+0 H15 4     Object  Segment  Label
+203    H15        4      0
+183    H11        4      0
+204    H15        5      0
+4       H1        5      0
+53     H11        4      0
+0 H15 5     Object  Segment  Label
+204    H15        5      0
+4       H1        5      0
+134     H1        5      0
+133     H1        4      0
+3       H1        4      0
+1 H16 1     Object  Segment  Label
+8       H2        4      1
+168     H8        4      1
+197    H14        3      1
+209    H16        5      1
+67     H14        3      1
+1 H16 2     Object  Segment  Label
+46     H10        2      0
+116    H25        2      1
+119    H25        5      1
+169     H8        5      1
+247    H25        3      1
+1 H16 3     Object  Segment  Label
+78     H16        4      1
+138     H2        4      1
+116    H25        2      1
+198    H14        4      1
+207    H16        3      1
+1 H16 4     Object  Segment  Label
+9       H2        5      1
+199    H14        5      1
+7       H2        3      1
+6       H2        2      1
+104    H22        5      1
+1 H16 5     Object  Segment  Label
+198    H14        4      1
+138     H2        4      1
+249    H25        5      1
+78     H16        4      1
+169     H8        5      1
+0 H17 1     Object  Segment  Label
+190    H13        1      0
+85     H18        1      0
+170     H9        1      0
+10      H3        1      0
+185    H12        1      0
+0 H17 2     Object  Segment  Label
+81     H17        2      0
+211    H17        2      0
+86     H18        2      0
+216    H18        2      0
+156     H6        2      0
+0 H17 3     Object  Segment  Label
+82     H17        3      0
+212    H17        3      0
+87     H18        3      0
+12      H3        3      0
+17      H4        3      0
+0 H17 4     Object  Segment  Label
+83     H17        4      0
+213    H17        4      0
+113    H24        4      0
+88     H18        4      0
+29      H6        5      0
+0 H17 5     Object  Segment  Label
+214    H17        5      0
+239    H23        5      0
+84     H17        5      0
+174     H9        5      0
+159     H6        5      0
+0 H18 1     Object  Segment  Label
+85     H18        1      0
+185    H12        1      0
+250    H26        1      0
+170     H9        1      0
+215    H18        1      0
+0 H18 2     Object  Segment  Label
+216    H18        2      0
+236    H23        2      0
+86     H18        2      0
+106    H23        2      0
+81     H17        2      0
+0 H18 3     Object  Segment  Label
+217    H18        3      0
+147     H4        3      0
+17      H4        3      0
+87     H18        3      0
+27      H6        3      0
+0 H18 4     Object  Segment  Label
+18      H4        4      0
+218    H18        4      0
+114    H24        5      0
+88     H18        4      0
+13      H3        4      0
+0 H18 5     Object  Segment  Label
+89     H18        5      0
+219    H18        5      0
+59     H12        5      0
+44      H9        5      0
+194    H13        5      0
+0 H19 1     Object  Segment  Label
+140     H3        1      0
+90     H19        1      0
+0       H1        1      0
+240    H24        1      0
+150     H5        1      0
+0 H19 2     Object  Segment  Label
+176    H10        2      0
+23      H5        4      0
+46     H10        2      0
+244    H24        5      0
+21      H5        2      0
+0 H19 3     Object  Segment  Label
+193    H13        4      0
+178    H10        4      0
+57     H12        3      0
+63     H13        4      0
+192    H13        3      0
+1 H19 4     Object  Segment  Label
+153     H5        4      0
+224    H19        5      1
+69     H14        5      1
+244    H24        5      0
+198    H14        4      1
+1 H19 5     Object  Segment  Label
+224    H19        5      1
+93     H19        4      1
+94     H19        5      1
+193    H13        4      0
+48     H10        4      0
+0 H20 1     Object  Segment  Label
+225    H20        1      0
+95     H20        1      0
+90     H19        1      0
+60     H13        1      0
+255    H27        1      0
+0 H20 2     Object  Segment  Label
+226    H20        2      0
+71     H15        2      0
+96     H20        2      0
+131     H1        2      0
+121    H26        2      0
+0 H20 3     Object  Segment  Label
+227    H20        3      0
+97     H20        3      0
+132     H1        3      0
+82     H17        3      0
+2       H1        3      0
+0 H20 4     Object  Segment  Label
+98     H20        4      0
+127    H27        3      0
+128    H27        4      0
+213    H17        4      0
+83     H17        4      0
+0 H20 5     Object  Segment  Label
+99     H20        5      0
+213    H17        4      0
+229    H20        5      0
+124    H26        5      0
+214    H17        5      0
+1 H22 1     Object  Segment  Label
+100    H22        1      1
+138     H2        4      1
+75     H16        1      1
+205    H16        1      1
+78     H16        4      1
+1 H22 2     Object  Segment  Label
+6       H2        2      1
+37      H8        3      1
+139     H2        5      1
+118    H25        4      1
+66     H14        2      1
+1 H22 3     Object  Segment  Label
+104    H22        5      1
+138     H2        4      1
+198    H14        4      1
+119    H25        5      1
+66     H14        2      1
+1 H22 4     Object  Segment  Label
+6       H2        2      1
+7       H2        3      1
+8       H2        4      1
+66     H14        2      1
+104    H22        5      1
+1 H22 5     Object  Segment  Label
+248    H25        4      1
+231    H22        2      1
+9       H2        5      1
+104    H22        5      1
+179    H10        5      0
+0 H23 1     Object  Segment  Label
+215    H18        1      0
+85     H18        1      0
+185    H12        1      0
+235    H23        1      0
+250    H26        1      0
+0 H23 2     Object  Segment  Label
+236    H23        2      0
+216    H18        2      0
+106    H23        2      0
+86     H18        2      0
+61     H13        2      0
+0 H23 3     Object  Segment  Label
+237    H23        3      0
+217    H18        3      0
+158     H6        4      0
+27      H6        3      0
+238    H23        4      0
+0 H23 4     Object  Segment  Label
+188    H12        4      0
+223    H19        4      1
+63     H13        4      0
+57     H12        3      0
+173     H9        4      0
+0 H23 5     Object  Segment  Label
+238    H23        4      0
+239    H23        5      0
+109    H23        5      0
+84     H17        5      0
+29      H6        5      0
+0 H24 1     Object  Segment  Label
+110    H24        1      0
+240    H24        1      0
+10      H3        1      0
+80     H17        1      0
+190    H13        1      0
+0 H24 2     Object  Segment  Label
+91     H19        2      0
+111    H24        2      0
+61     H13        2      0
+86     H18        2      0
+236    H23        2      0
+0 H24 3     Object  Segment  Label
+22      H5        3      0
+112    H24        3      0
+217    H18        3      0
+152     H5        3      0
+17      H4        3      0
+0 H24 4     Object  Segment  Label
+158     H6        4      0
+238    H23        4      0
+149     H4        5      0
+29      H6        5      0
+113    H24        4      0
+0 H24 5     Object  Segment  Label
+114    H24        5      0
+149     H4        5      0
+84     H17        5      0
+89     H18        5      0
+44      H9        5      0
+1 H25 1     Object  Segment  Label
+231    H22        2      1
+230    H22        1      1
+246    H25        2      1
+248    H25        4      1
+234    H22        5      1
+1 H25 2     Object  Segment  Label
+38      H8        4      1
+101    H22        2      1
+209    H16        5      1
+233    H22        4      1
+118    H25        4      1
+1 H25 3     Object  Segment  Label
+79     H16        5      1
+247    H25        3      1
+208    H16        4      1
+37      H8        3      1
+169     H8        5      1
+1 H25 4     Object  Segment  Label
+118    H25        4      1
+139     H2        5      1
+104    H22        5      1
+119    H25        5      1
+138     H2        4      1
+1 H25 5     Object  Segment  Label
+6       H2        2      1
+118    H25        4      1
+7       H2        3      1
+38      H8        4      1
+37      H8        3      1
+0 H26 1     Object  Segment  Label
+250    H26        1      0
+155     H6        1      0
+85     H18        1      0
+185    H12        1      0
+75     H16        1      1
+0 H26 2     Object  Segment  Label
+251    H26        2      0
+121    H26        2      0
+201    H15        2      0
+211    H17        2      0
+81     H17        2      0
+0 H26 3     Object  Segment  Label
+122    H26        3      0
+254    H26        5      0
+126    H27        2      0
+53     H11        4      0
+252    H26        3      0
+0 H26 4     Object  Segment  Label
+54     H11        5      0
+123    H26        4      0
+73     H15        4      0
+74     H15        5      0
+228    H20        4      0
+0 H26 5     Object  Segment  Label
+228    H20        4      0
+134     H1        5      0
+74     H15        5      0
+53     H11        4      0
+124    H26        5      0
+0 H27 1     Object  Segment  Label
+125    H27        1      0
+255    H27        1      0
+15      H4        1      0
+225    H20        1      0
+145     H4        1      0
+0 H27 2     Object  Segment  Label
+201    H15        2      0
+121    H26        2      0
+51     H11        2      0
+126    H27        2      0
+132     H1        3      0
+0 H27 3     Object  Segment  Label
+127    H27        3      0
+258    H27        4      0
+124    H26        5      0
+128    H27        4      0
+212    H17        3      0
+0 H27 4     Object  Segment  Label
+258    H27        4      0
+128    H27        4      0
+124    H26        5      0
+98     H20        4      0
+133     H1        4      0
+0 H27 5     Object  Segment  Label
+129    H27        5      0
+259    H27        5      0
+13      H3        4      0
+88     H18        4      0
+14      H3        5      0
+Same object: [23 37 57 10  3  0]
+Expected number of same object if random: 0.19230769230769232 Expected knowing this distribution: 1.4846153846153847
+Same segment: [ 4 12 17 22 17 58]
+Expected number of same segment if random: 1.0 Expected knowing this distribution: 3.6153846153846154
+Same segment and object: [34 43 53  0  0  0]
+Expected number of same segment and object if random: 0.038461538461538464 Expected knowing this distribution: 1.146153846153846
