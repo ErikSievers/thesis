@@ -6,3 +6,7 @@ Peregrine Dataset v2021-03
 *.pdf
 thesis-env
 integrals.npy
+OT data 80 um/Int-Validation-1
+OT data 80 um/max
+OT data 80 um/layerwise_porosity.mat
+all.mat
